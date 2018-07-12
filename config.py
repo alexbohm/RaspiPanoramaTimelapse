@@ -2,7 +2,7 @@ LOCATION = "/home/alex/Pictures/"
 #number of images to take in each panorama
 NUMBER = 5
 #number of steps to rotate after each image
-STEPS = 100
+STEPS = 1000
 
 #position of each image for processing
 POS = [
